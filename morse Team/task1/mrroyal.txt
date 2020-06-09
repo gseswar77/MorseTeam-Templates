@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Morse team page </title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div class="w3-container w3-teal">
+  <h1>Morse Team </h1>
+</div>
+<div class="w3-half">
+   <div class="w3-card">
+<img src="pj1.png" alt="Mack" style="width:100%">
+
+<div class="w3-container">
+  <p>Lorem ipsum do;or sit amet,consectetur adipiscing elit.integer non elementum nunc.present molestie justo dictim pharetra aliquam.Nam neque nulla.
+  Venenatis non iaculis non. scelerisque ultricies metus.</p>
+</div>
+<div class="w3-container w3-teal">
+  <p>My footer information</p>
+<title> www.w3schools.com </title></div></body>
+</html>
